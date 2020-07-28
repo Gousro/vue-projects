@@ -17,7 +17,7 @@ List of small projects created using vue.js :book:
 
 * [Intro to vue](intro-vue/)
 * [Real World Vue](real-world-vue/)
-* [Mastering Vuex](real-world-vue-vuex/)
+* [Mastering Vuex](real-world-vuex/)
 
 
 ### :memo: License
